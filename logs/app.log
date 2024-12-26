@@ -1,0 +1,190 @@
+2024-12-25 18:37:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 18:37:44 INFO  NewVideoProjectCreationTest - User is navigated to  sign in basic 
+2024-12-25 18:37:49 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 18:41:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 18:41:19 INFO  NewVideoProjectCreationTest - User is navigated to  sign in basic 
+2024-12-25 18:41:25 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 14
+2024-12-25 18:46:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 18:46:17 INFO  NewVideoProjectCreationTest - User is navigated to  sign in basic 
+2024-12-25 18:46:23 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 15
+2024-12-25 18:50:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 18:50:22 INFO  NewVideoProjectCreationTest - User is navigated to  sign in basic 
+2024-12-25 18:50:28 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 16
+2024-12-25 18:51:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 18:51:50 INFO  NewVideoProjectCreationTest - User is navigated to  sign in basic 
+2024-12-25 18:51:58 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 17
+2024-12-25 19:00:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:00:48 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:27:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:27:33 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:27:38 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:28:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:28:13 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:28:18 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 18
+2024-12-25 19:33:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:33:40 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:33:44 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:34:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:34:47 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:34:52 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:35:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:35:58 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:36:03 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:36:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:36:58 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:37:03 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:37:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:37:54 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:37:59 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:38:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:38:33 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:38:37 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 1
+2024-12-25 19:40:46 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:40:50 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:40:55 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:41:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:41:28 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:41:33 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 0
+2024-12-25 19:43:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:43:34 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:43:42 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 4
+2024-12-25 19:44:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:44:56 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:45:04 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 4
+2024-12-25 19:46:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:46:47 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:46:53 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 5
+2024-12-25 19:47:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:47:24 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:47:30 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 6
+2024-12-25 19:48:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 19:48:05 INFO  NewVideoProjectCreationTest - User is navigated to  sign in Home Page 
+2024-12-25 19:48:13 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 7
+2024-12-25 20:18:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:18:14 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:26:22 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:26:25 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:33:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:33:52 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:33:53 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:34:01 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 8
+2024-12-25 20:44:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:44:52 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:44:53 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:45:01 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 9
+2024-12-25 20:45:01 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:46:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:46:08 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:46:09 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:46:16 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 10
+2024-12-25 20:46:16 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:46:23 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 11
+2024-12-25 20:48:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:48:23 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:48:24 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:48:31 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 11
+2024-12-25 20:48:32 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:48:38 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 12
+2024-12-25 20:49:22 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:49:25 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:49:26 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:49:33 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 12
+2024-12-25 20:49:33 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:49:40 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 13
+2024-12-25 20:49:40 INFO  NewVideoProjectCreationTest - Stop
+2024-12-25 20:53:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-25 20:53:32 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-25 20:53:32 INFO  NewVideoProjectCreationTest - Attention!!! Please Check if you have more than 19 existing  project test will not be Passed  
+2024-12-25 20:53:33 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:53:41 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 13
+2024-12-25 20:53:41 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-25 20:53:47 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 14
+2024-12-25 20:53:48 INFO  NewVideoProjectCreationTest - Stop
+2024-12-26 09:48:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-26 09:48:54 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-26 09:48:54 INFO  NewVideoProjectCreationTest - Attention!!! Please Check if you have more than 19 existing  project test will not be Passed:
+2024-12-26 09:48:55 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 09:49:03 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 14
+2024-12-26 09:49:03 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 09:49:10 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 15
+2024-12-26 09:49:10 INFO  NewVideoProjectCreationTest - Stop
+2024-12-26 09:49:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-26 09:49:52 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-26 09:49:52 INFO  NewVideoProjectCreationTest - Attention!!! Please Check if you have more than 19 existing  project test will not be Passed:
+2024-12-26 09:49:53 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 09:50:00 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 15
+2024-12-26 09:50:00 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 09:50:07 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 16
+2024-12-26 09:50:07 INFO  NewVideoProjectCreationTest - Stop
+2024-12-26 10:41:45 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/vahanmusayelyan/Library/Caches/JetBrains/IdeaIC2024.3/temp-testng-customsuite.xml
+
+2024-12-26 10:41:48 INFO  NewVideoProjectCreationTest - title is   Podcastle: All-in-One Video and Podcast Software : Url is https://qa.podcastle.ai/
+2024-12-26 10:41:48 INFO  NewVideoProjectCreationTest - Attention!!! Please Check if you have more than 19 existing  project test will not be Passed:
+2024-12-26 10:41:49 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 10:41:57 INFO  NewVideoProjectCreationTest - Count Of Projects Before Test: 16
+2024-12-26 10:41:57 INFO  NewVideoProjectCreationTest - User is Navigate to the Project Overview page. 
+2024-12-26 10:42:04 INFO  NewVideoProjectCreationTest - Count Of Projects After Test: 17
+2024-12-26 10:42:04 INFO  NewVideoProjectCreationTest - Stop
